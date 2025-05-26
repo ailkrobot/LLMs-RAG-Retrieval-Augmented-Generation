@@ -17,3 +17,22 @@ Para ejecutar este notebook en local o Colab:
 
 ```bash
 pip install chromadb sentence-transformers
+
+🚀 ¿Cómo usarlo?
+Abre el archivo RAG_reparado.ipynb en Colab o Jupyter Notebook.
+
+Ejecuta las celdas paso a paso para:
+
+Crear una base vectorial con ChromaDB
+
+Convertir textos en vectores semánticos
+
+Realizar búsquedas inteligentes
+
+💡 Miniproyecto propuesto
+🧪 Buscador inteligente de documentación técnica
+Puedes ampliar este ejemplo conectando fuentes como archivos PDF, Markdown o bases de conocimiento de Notion.
+
+✍️ Autora
+Liz Katherine Rincón Ardila
+🔗 https://ailkrobotcontrol.com
