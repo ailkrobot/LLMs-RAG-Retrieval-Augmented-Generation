@@ -1,4 +1,4 @@
-# 🧠 Retrieval-Augmented Generation (RAG) – Colab Example
+# 🧠 LLMs-Retrieval-Augmented Generation (RAG) – Colab Example
 
 This repository contains a simple example of how to implement an intelligent search system using **Retrieval-Augmented Generation (RAG)** with **ChromaDB** and **SentenceTransformers**.
 
